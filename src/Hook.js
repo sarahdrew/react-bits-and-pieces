@@ -6,7 +6,7 @@ export default function Hook() {
         <div className="main-hook">
 
             <p>
-                variable: {variable}
+                Here are smiles {variable}
             </p>
             <button onClick={() => {
                 functionThatEffectsVariable([...variable, ' :)'])
