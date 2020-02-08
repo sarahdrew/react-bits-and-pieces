@@ -1,14 +1,10 @@
 import React from 'react';
-
+import Hook from './Hook'
 
 function App() {
   return (
-    <main className="App">
-
-      <header className="App-header">
-
-      </header>
-      App is working
+    <main className='App'>
+      <Hook />
     </main>
   );
 }
