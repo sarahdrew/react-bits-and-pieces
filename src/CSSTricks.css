@@ -1,0 +1,135 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: linear-gradient(to top left, #171e26, #2e3942);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #f7f7f7;
+  }
+  
+.Nav{
+background-color: #e7e8e9;
+text-align: center;
+}
+
+  h1{
+    text-align: left;
+    width: 50%;
+    color: #e7e8e9;
+  }
+  
+  #email{
+      font-size: 20px;
+      height: 50px;
+      width: 85%;
+      background: #162028;
+      padding-top: 0px;
+      border: 0;
+      font-family: 'Montserrat', sans-serif;
+      margin-top: -10px;
+      padding-bottom: 0px;
+  }
+  .email-form {
+    display: flex;
+    height: 50px;
+    padding: 2px;
+    margin: 10px;
+    margin-top: 50px;
+    font-family: 'Nunito', sans-serif;
+    background: linear-gradient(to right,#f31d79, #ff465a);
+  }
+  
+  .close{
+    position: absolute;
+    right: -7px;
+    top: 7px;
+    width: 32px;
+    height-top: 32px;
+    color: #7e7f81;
+  }
+  
+  .close:hover{
+    color: #f31d79;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  
+  .pop-out{
+    position: absolute;
+    background: linear-gradient(25deg, #1b232b 110px,
+      #162028 110px, #162028 443px, 
+      #1b232b 443px );
+    width:600px;
+    margin: 147px;
+    padding: 79px;
+    box-shadow: 10px 10px black;
+    z-index: 1;
+    display: normal;
+  }
+  
+  section{
+   color: #ffffffa6;
+    line-height: 1.6;
+  }
+  
+  #submit-button {
+      margin-left: 45px;
+      font-size: 20px;
+      height: auto;
+      width: 40%;
+      border: none;
+      color: white;
+      background: none;
+      font-family: 'Montserrat', sans-serif;
+      cursor: pointer;
+  }
+  
+  #submit-button:hover {
+    font-size: 25px;
+  }
+  
+  .input-icon{
+    position: absolute;
+    left: 3px;  
+  }
+  
+  .input-wrapper{
+    position: relative;
+    background: #162028;
+    padding: 10px;
+  }
+  
+  input, select, textarea{
+    color: white;
+    height: 30px;
+    background: #162028;
+  }
+  
+  textarea:focus, input:focus {
+    color: white;
+    background: #162028;
+  }
+  
+  textarea:active {
+    background: #162028;
+  }
+  
+  
+  .submit-window {
+      display: none;
+      position: absolute;
+      background: linear-gradient(25deg, #1b232b 110px, #162028 110px, #162028 443px, #1b232b 443px);
+      width: 600px;
+      margin: 144px;
+      padding: 118px;
+      height: 296px;
+      width: 551px;
+      z-index: 1;
+      text-align: center;
+      font-size: 20px;
+      font-family: 'Nunito', sans-serif;
+  }
+  
+  .thanks{
+    font-size: 25px;
+  }

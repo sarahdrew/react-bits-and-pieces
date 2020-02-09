@@ -3,6 +3,7 @@ import { Route } from "react-router-dom";
 import Nav from './Nav';
 import Hook from './Hook';
 import LandingPage from './LandingPage';
+import CSSTricks from './CSSTricks';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
 
       <Route exact path='/hook' component={Hook} />
       <Route exact path='/' component={LandingPage} />
+      <Route exact path='/csstricks' component={CSSTricks} />
 
     </main>
   );
