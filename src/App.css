@@ -12,3 +12,8 @@ a:hover, a:visited{
 .Nav a{
     text-decoration: none;
 }
+
+.landing-page{
+    margin: 20px;
+    
+}
