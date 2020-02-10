@@ -6,13 +6,7 @@ body {
     color: #f7f7f7;
   }
   
-.Nav{
-background-color: #35424e;
-text-align: center;
-}
-a:hover, a:visited{
-  color: #7d9dc0;
-}
+
 
   h1{
     text-align: left;
@@ -46,7 +40,7 @@ a:hover, a:visited{
     right: -7px;
     top: 7px;
     width: 32px;
-    height-top: 32px;
+    /* height-top: 32px; */
     color: #7e7f81;
   }
   
@@ -59,9 +53,9 @@ a:hover, a:visited{
   
   .pop-out{
     position: absolute;
-    background: linear-gradient(25deg, #252e35 110px,
+    background: linear-gradient(25deg, #53646e 110px,
     #576a76 110px, #576a76 443px, 
-    #252e35 443px );
+    #53646e 443px );
     width:600px;
     margin: 147px;
     padding: 79px;
@@ -121,8 +115,9 @@ a:hover, a:visited{
   .submit-window {
       display: none;
       position: absolute;
-      background: linear-gradient(25deg, #1b232b 110px, #162028 110px, #162028 443px, #1b232b 443px);
-      width: 600px;
+      background: linear-gradient(25deg, #53646e 110px,
+      #576a76 110px, #576a76 443px, 
+      #53646e 443px );
       margin: 144px;
       padding: 118px;
       height: 296px;

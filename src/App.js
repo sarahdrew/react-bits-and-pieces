@@ -4,6 +4,7 @@ import Nav from './Nav';
 import Hook from './Hook';
 import LandingPage from './LandingPage';
 import CSSTricks from './CSSTricks';
+import './App.css';
 
 function App() {
   return (

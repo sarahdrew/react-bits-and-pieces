@@ -9,8 +9,8 @@ export default class Nav extends Component {
             <div className="Nav">
 
                 <div className="links">< Link to="/" > Home</Link > |
-                        <Link to="/hook"> Hooks </Link> |
-                        <Link to='/csstricks'>CSS Tricks </Link>
+                        <Link to="/hook">  Hooks</Link>  |
+                        <Link to='/csstricks'>  CSS Tricks </Link>
 
                 </div>
             </div>

@@ -1,0 +1,14 @@
+.Nav{
+    background-color: #35424e;
+    text-align: center;
+    }
+a:hover, a:visited{
+      color: #7d9dc0;
+    }
+.links{
+    font-size: 20px;
+
+}
+.Nav a{
+    text-decoration: none;
+}
