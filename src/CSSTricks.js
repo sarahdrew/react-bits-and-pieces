@@ -26,7 +26,7 @@ export default function CSSTricks() {
 
                 <section className="explanation">
                     <div className="diagonal-stripe">   </div>
-                    Mailing lists can be obnoxious- but not ours! We'll send you email about CSS Tricks. You want it- you need it. Or you can just unsubscribe.
+                    Mailing lists can be obnoxious- but not ours! We'll send you emails about CSS Tricks. You want it- you need it. You can always unsubscribe later.
         </section>
 
                 <form className="email-form" id="gradient-form">

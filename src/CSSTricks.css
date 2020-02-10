@@ -1,14 +1,17 @@
 body {
     font-family: 'Nunito', sans-serif;
-    background-image: linear-gradient(to top left, #171e26, #2e3942);
+    background-image: linear-gradient(to top left, #7f9fc3, #252e35);
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #f7f7f7;
   }
   
 .Nav{
-background-color: #e7e8e9;
+background-color: #35424e;
 text-align: center;
+}
+a:hover, a:visited{
+  color: #7d9dc0;
 }
 
   h1{
@@ -56,9 +59,9 @@ text-align: center;
   
   .pop-out{
     position: absolute;
-    background: linear-gradient(25deg, #1b232b 110px,
-      #162028 110px, #162028 443px, 
-      #1b232b 443px );
+    background: linear-gradient(25deg, #252e35 110px,
+    #576a76 110px, #576a76 443px, 
+    #252e35 443px );
     width:600px;
     margin: 147px;
     padding: 79px;
