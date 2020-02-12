@@ -45,6 +45,12 @@ export default function CSSTricks() {
                 </div>
 
             </div>
+            <div className="explanation">
+                <p>
+                  With this project I learned how to create hard lines for a diagonal stripe using background: linear-gradient() with CSS.
+                  
+            </p>
+            </div>
         </div>
 
     )

@@ -5,8 +5,8 @@ export default function LandingPage() {
         <div className="landing-page">
 
             <p>
-                Here are some mini projects I've wanted to mess around with on React.
-                I've added a page for every project or trial so small that it can be combined with others!
+                Here are some mini projects I have been trying out on React.
+                I've added a page for every project or trial so small that I might as well combine it with others.
                 Enjoy!
 
             </p>

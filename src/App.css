@@ -14,6 +14,27 @@ a:hover, a:visited{
 }
 
 .landing-page{
-    margin: 20px;
-    
+    margin: 25%;
+    margin-top: 10%;
+    padding: 15px;
+}
+
+.main-hook{
+    margin: 10%;
+}
+
+.add-smile {
+    margin-left: 45px;
+    font-size: 20px;
+    height: auto;
+    width: 40%;
+    border: 1px white;
+    color: white;
+    background: #34424e;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+
+#submit-button:hover {
+  font-size: 25px;
 }
